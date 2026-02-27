@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f445db79-0d40-4018-b588-9194ec3b24ef" name="Changes" comment="SEMINAR_2">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angajati.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elevinoi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cts/s02/principii_clean_code/clase/Angajat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cts/s02/principii_clean_code/clase/Aplicant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cts/s02/principii_clean_code/clase/Elev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cts/s02/principii_clean_code/clase/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cts/s02/principii_clean_code/clase/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cts/s02/principii_clean_code/main/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studenti.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anamaria1203"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/anamaria1203/CTS_1097_Vasile_Ana-Maria.git",
+    "accountId": "c551f43b-1b72-4fbd-9eef-993d27e14c38"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3AFRzt3dHrXzYoH0htsuPCAt3EE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ana/OneDrive/Documents/CTS/Seminar_01"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f445db79-0d40-4018-b588-9194ec3b24ef" name="Changes" comment="" />
+      <created>1772186599271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772186599271</updated>
+    </task>
+    <task id="LOCAL-00001" summary="SEMINAR_2">
+      <option name="closed" value="true" />
+      <created>1772186784176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772186784176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SEMINAR_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="SEMINAR_2" />
+  </component>
+</project>
