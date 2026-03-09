@@ -41,7 +41,7 @@ public class Student extends Aplicant {
 
 	@Override
 	public void afisareFinantare() {
-		super.afisareFinantare(sumaFinantare, "Student");
+		super.afisareFinantare(Student.sumaFinantare, "Student");
 	}
 	
 }
